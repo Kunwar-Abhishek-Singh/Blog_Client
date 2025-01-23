@@ -1,4 +1,32 @@
+<p align="center">
+    <img src="assets/blog_homepage.png" width="900" height="380" alt="Home Page">
+</p>
+This is the Blog page (Homepage) which got appeared after successful Login if already a user otherwise first register yourself then login and you will redirected to this Homepage.
+
+
+
+<p align="center">
+    <img src="assets/blog_login.png" width="900" height="380" alt="Home Page">
+</p>
+
+This is the Login page from where you can Authenticate yourself securely via functionalities using internally like JWT authentication and Hashing and Salting algorithm for password securities.
+
+
+<p align="center">
+    <img src="assets/blog_signup.png" width="900" height="380" alt="Home Page">
+</p>
+
+Signup page for a secure registration to get user logged in for writing or reading blogs.
+
+<p align="center">
+    <img src="assets/detail_page_cum_edit.png" width="900" height="380" alt="Home Page">
+</p>
+
+This is the section from where one can modify his blogs or for detailed viewing purpose.
+
 # Getting Started with Create React App
+
+NOTE:- Use Node verion 16 (LTS version) to avoid the deprecation errors.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
